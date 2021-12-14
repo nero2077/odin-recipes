@@ -7,7 +7,6 @@ body {
   font-family: Monospace;
   background-color: rgb(211, 211, 211);
   border-top: rgb(158, 158, 255) 10px solid;
-  height: 100vh;
 }
 
 img {
@@ -30,18 +29,22 @@ h1 {
 h2 {
   margin: 20px 0;
   margin-left: 15px;
+  font-size: 30px;
 }
 
 p {
   margin-left: 15px;
+  font-size: 18px;
 }
 
 h3 {
   margin: 20px 0;
   margin-left: 15px;
+  font-size: 25px;
 }
 
 ol,
 ul {
   margin-left: 25px;
+  font-size: 18px;
 }
