@@ -9,38 +9,3 @@ body {
   border-top: rgb(158, 158, 255) 10px solid;
   height: 100vh;
 }
-
-img {
-  height: auto;
-  width: 700px;
-  margin: 0 auto;
-  display: block;
-  border-radius: 30px;
-}
-
-h1 {
-  text-align: center;
-  padding: 20px 0;
-  background-color: rgb(224, 224, 224);
-  font-size: 50px;
-  margin-bottom: 25px;
-  font-family: serif;
-}
-
-ul {
-  margin-top: 50px;
-  font-size: 30px;
-  list-style: none;
-  text-align: center;
-}
-
-a:link,
-a:visited {
-  color: rgb(56, 56, 56);
-  text-decoration: none;
-}
-
-a:hover,
-a:active {
-  color: rgb(158, 158, 255);
-}
